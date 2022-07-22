@@ -4,10 +4,10 @@
   - Problem: Wasting time and effort in searching for an engineering office
   
   - Solution you created:
-1- Wasting time and effort in searching fo additional income for engineers.
-2- Facilitate consumer access to engineers and engineering offices.
-3- Diversity of engineering offices in all regions of the Kingdom
-4- Complex  or simple Counseling
+- 1- Wasting time and effort in searching fo additional income for engineers.
+- 2- Facilitate consumer access to engineers and engineering offices.
+- 3- Diversity of engineering offices in all regions of the Kingdom
+- 4- Complex  or simple Counseling
   - Team members
 1-Abdulhadi Ahmed Ahmasani/ https://github.com/Abdulhadi333
 2-Ali Qasim Mushnari/ https://github.com/Mashbariali
